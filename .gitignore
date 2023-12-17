@@ -1,0 +1,30 @@
+# File di build e cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__init__.pyc
+
+# File di configurazione
+*.ini
+*.cfg
+
+# File di registro e output
+*.log
+*.out
+
+# Directory di ambiente virtuale
+venv/
+env/
+
+# File di progetto specifici (esempio: .vscode)
+.vscode/
+
+# Dipendenze installate
+lib/
+lib64/
+bin/
+include/
+local/
+
+media/
